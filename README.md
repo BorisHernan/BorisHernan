@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boris Medrano Castro — Desarrollador Full Stack Java
 
-<!--
-**BorisHernan/BorisHernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cañete, Perú. Programo en Java desde 2018 y trabajo profesionalmente desde 2021; hoy como consultor independiente en proyectos para sector público y retail.
 
-Here are some ideas to get you started:
+**Stack:** Java 17/21 · Spring Boot (MVC, WebFlux, R2DBC) · Angular · PostgreSQL / Oracle · Docker · Kubernetes · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyecto destacado:** TaskFlow Pro — kanban, tienda y juego multijugador en tiempo real con SSE y WebSocket.
+
+Repo: https://github.com/BorisHernan/taskflow-pro-suite · Demo: https://proyecto-portafolio-eosin.vercel.app
+
+Mi trabajo profesional vive en repositorios privados de clientes; aquí publico lo que construyo por mi cuenta.
+
+**Contacto:** mdrncastro@gmail.com · https://www.linkedin.com/in/boris-hernan-dev/
